@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wallpaper 1",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/01.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_01.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 2",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/02.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_02.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 3",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/03.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_03.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 4",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/04.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_04.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 5",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/05.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_05.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 6",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/06.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_06.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 7",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/07.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_07.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 8",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/08.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_08.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 9",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/09.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_09.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 10",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/caelus/main/10.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/caelus/main/thumbnails/thumb_10.jpg",
+    "downloadable": true
+  }
+]
